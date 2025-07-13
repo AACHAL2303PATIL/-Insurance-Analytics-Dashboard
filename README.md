@@ -58,9 +58,9 @@ To provide a dynamic and secure reporting solution for insurance metrics that he
 ## 🖼️ Screenshots:
 
 - **Dashboard Overview**  
-  ![Insurance Data Analysis Dashboard 1](https://github.com/AACHAL2303PATIL/House-Market-Analysis-using-Google-BigQuery/blob/main/House%20Dashboard%201.png)
-  ![Insurance Data Analysis Dashboard 2](https://github.com/AACHAL2303PATIL/House-Market-Analysis-using-Google-BigQuery/blob/main/House%20Dashboard%202.png)
-  ![Insurance Data Analysis Dashboard 3](https://github.com/AACHAL2303PATIL/House-Market-Analysis-using-Google-BigQuery/blob/main/House%20Dashboard%203.png)
+  ![Insurance Data Analysis Dashboard 1](https://github.com/AACHAL2303PATIL/-Insurance-Analytics-Dashboard/blob/main/Insurance%201.png)
+  ![Insurance Data Analysis Dashboard 2](https://github.com/AACHAL2303PATIL/-Insurance-Analytics-Dashboard/blob/main/Insurance%202.png)
+  ![Insurance Data Analysis Dashboard 3](https://github.com/AACHAL2303PATIL/-Insurance-Analytics-Dashboard/blob/main/Insurance%203.png)
 
 ## 🚀 How to Use:
 1. Clone or download the `.pbix` file from this repo
@@ -68,7 +68,6 @@ To provide a dynamic and secure reporting solution for insurance metrics that he
 3. Review and edit DAX or Power Query if using a different schema
 4. Publish to Power BI Service for scheduled refresh and RLS testing
 
-## 📂 Dataset:
-🔗 [Click here to access the dataset](https://drive.google.com/file/d/1PpuWPloKOtTau5yG7QkXP2fuoDpQdXK4/view)
+
 
 
